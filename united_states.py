@@ -4,6 +4,8 @@ flower and manipulates the data in different ways"""
 import matplotlib.pyplot as plt
 
 # List with all the state information
+
+#[state, capital, population, state flower]
 united_states_data = [
     ["Alabama", "Montgomery", 5097641, "Camellia"],
     ["Alaska", "Juneau", 740339, "Alpine Forget-me-not"],
